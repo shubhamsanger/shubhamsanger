@@ -1,5 +1,13 @@
 <body>
-    <img class="profile-image" src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" alt="Shubham Sanger" width="1000" height="300">
+    <img src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" 
+     alt="Shubham Sanger" 
+     style="display: block; 
+            margin-left: auto; 
+            margin-right: auto; 
+            width: 300px; 
+            height: 300px; 
+            border-radius: 50%; 
+            object-fit: cover;"/>
 
 <h1 align="center">Hi 👋, I'm Shubham Sanger</h1>
 </body>
@@ -19,7 +27,7 @@
 
 <h3 align="center"style="margin-top:10; margin-bottom:10;">🔗 Connect with me:</h3>
 <p align="center" style="margin-top: 10px; margin-bottom: 10px;">
-  <a href="https://linkedin.com/in/contactshubhamsanger" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/shubhamsanger23/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="50" width="60"/>
   </a>
 </p>
