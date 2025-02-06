@@ -1,7 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Shubham Sanger</h1>
-<p align="center">
-  <img src="https://imgur.com/a/v9raLiQ"width="300" height="200"/>
-</p>
+
 <h3 align="center">A passionate Software Development Engineer and Cybersecurity Enthusiast from India</h3>
 
 <p align="center">
