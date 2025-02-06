@@ -1,25 +1,4 @@
 <head>
-  <style>
-        body {
-            display: flex;
-            flex-direction: column;
-            align-items: center; /* Center content horizontally */
-            justify-content: center; /* Center content vertically */
-            height: 100px; /* Full viewport height */
-            margin: 0; /* Remove default margin */
-            background-color: #f0f0f0; /* Optional background color */
-        }
-        .profile-image {
-            width: 300px; /* Set desired width */
-            height: auto; /* Maintain aspect ratio */
-            border-radius: 10px; /* Optional: rounded corners */
-            margin-bottom: 20px; /* Space between image and text */
-        }
-         h1 {
-            text-align: center; /* Center the text */
-            color: #333; /* Text color */
-        }
-    </style>
 </head>
 <body>
     <img class="profile-image" src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" alt="Shubham Sanger">
