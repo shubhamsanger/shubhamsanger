@@ -1,12 +1,11 @@
 <body>
     <h1 align="center">Hi 👋, I'm Shubham Sanger</h1>
-<div style="align: center;
-            display: block; 
-            margin: 0 auto; 
-            width: 300px; 
-            height: 300px; 
-            border-radius: 50%; 
-            object-fit: cover;"/>
+<div style = "align: center; 
+             margin: 0 auto; 
+             width: 300px; 
+             height: 300px; 
+             border-radius: 50%; 
+             object-fit: cover;" />
     <img src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg"/> 
 </div>
 </body>
