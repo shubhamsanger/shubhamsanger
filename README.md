@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Development Engineer and Cybersecurity Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7buirY0c3g0g0g0g/giphy.gif" alt="Welcome" width="300"/>
+  <img src="[https://media.giphy.com/media/3o7buirY0c3g0g0g0g/giphy.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)" alt="Welcome" width="300"/>
 </p>
 
 ---
