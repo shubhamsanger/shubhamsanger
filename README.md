@@ -1,7 +1,7 @@
 <head>
 </head>
 <body>
-    <img class="profile-image" src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" alt="Shubham Sanger" width="600" height="200"/>
+    <img class="profile-image" src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" alt="Shubham Sanger" width="1000" height="400"/>
 
 <h1 align="center">Hi 👋, I'm Shubham Sanger</h1>
 </body>
@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Software Development Engineer and Cybersecurity Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"width="500"height="200"/>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"width="600"height="200"/>
 </p>
 
 ---
