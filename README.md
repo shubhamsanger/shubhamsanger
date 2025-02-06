@@ -5,8 +5,7 @@
          alt="Shubham Sanger" 
          style="width: 300px; 
                 height: 300px; 
-                border-radius: 50%; 
-                object-fit: cover;"/>
+                border-radius: 50%;"/>
 </div>
 </body>
 
