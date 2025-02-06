@@ -1,9 +1,8 @@
 <body>
     <h1 align="center">Hi 👋, I'm SHUBHAM SANGER </h1>
 
-<div style = "align: center; margin: 0 auto; width: 1000px; height: 250px; border-radius: 50%; object-fit: cover;" />
-<img src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg"/> 
-</div>
+<img class="profile-image" src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" alt="Shubham Sanger" width="1000" height="300"/>
+
 </body>
 
 <h3 align="center">A passionate Software Development Engineer and Cybersecurity Enthusiast from India</h3>
