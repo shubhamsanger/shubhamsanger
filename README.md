@@ -1,13 +1,7 @@
 <body>
     <h1 align="center">Hi 👋, I'm Shubham Sanger</h1>
-<div style="align: center;">
-    <img src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" 
-     style="display: block; 
-            margin: 0 auto; 
-            width: 1000px; 
-            height: 300px; 
-            border-radius: 50%; 
-            object-fit: cover;"/>
+<div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; border: 2px solid #ccc;">
+    <img src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" alt="Square Picture" style="width: 100%; height: auto; object-fit: cover;">
 </div>
 </body>
 
