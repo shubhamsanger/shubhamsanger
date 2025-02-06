@@ -128,11 +128,11 @@
 
 ---
 
- <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+ <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-cybersecurity-certificate.png" alt="cybersecurity" width="250" height="210"/>
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ai-essentials%20(1).png" alt="AI Essentials" width="250" height="210"/>
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-project-management-professional-certificate.2%20(2).png" alt="Project Management" width="200" height="200"/>
-    <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ux-design-professional-certificate.2.png" alt="cybersecurity" width="240" height="210"/> 
+    <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ux-design-professional-certificate.2.png" alt="cybersecurity" width="200" height="210"/> 
 </div>
  
 
