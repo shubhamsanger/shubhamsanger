@@ -1,7 +1,7 @@
 <head>
 </head>
 <body>
-    <img class="profile-image" src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" alt="Shubham Sanger" width="1000" height="300"border-radius: 50% object-fit: cover/>
+    <img class="profile-image" src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" alt="Shubham Sanger" width="300" height="300"border-radius: 60% object-fit: cover/>
 
 <h1 align="center">Hi 👋, I'm Shubham Sanger</h1>
 </body>
