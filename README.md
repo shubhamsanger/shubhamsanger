@@ -125,10 +125,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
 </p>
-
+ 
 ---
 
-<div style=" align:center; display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style=" align:left; display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ux-design-professional-certificate.2.png" alt="UX Design" width="200" height="200"/>
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ai-essentials%20(1).png" alt="AI Essentials" width="220" height="210"/>
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-project-management-professional-certificate.2%20(2).png" alt="Project Management" width="200" height="200"/>
