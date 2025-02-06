@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shubham Sanger</h1>
 <h3 align="center">A passionate Software Development Engineer and Cybersecurity Enthusiast from India</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7buirY0c3g0g0g0g/giphy.gif" alt="Welcome" width="300"/>
+</p>
+
+---
+
 - 🌱 I’m currently learning **Java, AI & ML, and Advanced Cybersecurity Techniques**  
 - 💬 Ask me about **C, Python, JavaScript, and Network Security**  
-- 📢 How to reach me **rajputmshubham16@gmail.com**  
-- ✨ Fun fact **My keyboard and I have an unspoken bond. It understands my typos better than anyone else! 😅⌨️**
+- 📢 How to reach me: [rajputmshubham16@gmail.com](mailto:rajputmshubham16@gmail.com)  
+- ✨ Fun fact: **My keyboard and I have an unspoken bond. It understands my typos better than anyone else! 😅⌨️**
 
 ---
 
@@ -60,7 +66,7 @@
 - **Online Electricity Billing System**: Full-stack app using React.js, Node.js, and MongoDB with secure payment integration.
 - **E-Parking Solutions System**: Java-based system with database integration for efficient car & bike tracking.
 - **Cyber Shield**: Simulated environment for identifying, mitigating, and reporting cyber threats.
-- **Attack Guard**: A Sophisticated IDS designed to detect and prevent cyberattacks in real-time.
+- **Attack Guard**: A sophisticated IDS designed to detect and prevent cyberattacks in real-time.
 
 ---
 
