@@ -128,8 +128,9 @@
 
 ---
 
- <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-cybersecurity-certificate.png" alt="cybersecurity" align="right" width="100" height="100"/>
- <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ai-essentials%20(1).png" align="center" width="100" height="100"/>
+ <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-cybersecurity-certificate.png" alt="cybersecurity" align="right" width="200" height="200"/>
+ <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ai-essentials%20(1).png" align="center" width="200" height="200"/>
+ <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-prompting-essentials.png" align="left" width="200" height="200"/>
  
 
 
