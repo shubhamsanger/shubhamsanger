@@ -133,7 +133,7 @@
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ai-essentials%20(1).png" alt="AI Essentials" width="100" height="100"/>
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-business-intelligence-certificate%20(1).png" width="100" height="100"/>
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-project-management-professional-certificate.2%20(2).png" alt="Project Management" width="100" height="95"/>
-    <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-cybersecurity-certificate.png" alt="cybersecurity" width="120" height="110" align= down />
+    <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-cybersecurity-certificate.png" alt="cybersecurity" width="125" height="112" align= down />
 </div>
 
 
