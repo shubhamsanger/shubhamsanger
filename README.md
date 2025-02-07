@@ -1,6 +1,7 @@
 <body>
     <h1 align="center">Hi 👋, I'm SHUBHAM SANGER </h1>
 
+
 <img class="profile-image" src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" alt="Shubham Sanger" width="1000" height="300"/>
 
 </body>
@@ -14,7 +15,7 @@
 - 🌱 I’m currently learning **Java, AI & ML, and Advanced Cybersecurity Techniques**  
 - 💬 Ask me about **C, Python, JavaScript, and Network Security**  
 - 📢 How to reach me: [rajputmshubham16@gmail.com](mailto:rajputmshubham16@gmail.com)  
-- ✨ Fun fact: **My keyboard and I have an unspoken bond. It understands my typos better than anyone else! 😅⌨️**
+- ✨ Fun fact: **My keyboard and I have an unspoken bond. It understands my typos better than anyone else!😅⌨️**
 
 ---
 
@@ -127,6 +128,7 @@
 </p>
  
 ---
+
 
 <div style=" align:left; display: flex; justify-content: center; align-items: center; gap: 5px;">
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ux-design-professional-certificate.2.png" alt="UX Design" width="100" height="95"/>
