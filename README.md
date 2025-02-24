@@ -1,12 +1,8 @@
 <body>
     <h1 align="center">Hi 👋, I'm SHUBHAM SANGER </h1>
-
-
-<img class="profile-image" src="https://raw.githubusercontent.com/shubhamsanger/shubhamsanger/refs/heads/main/SHUBHAM%20SANGER%20%20Software%20%26%20Cybersecurity%20Engineer%20.jpg" alt="Shubham Sanger" width="1000" height="300"/>
-
 </body>
 
-<h3 align="center">A passionate Software Development Engineer and Cybersecurity Enthusiast from India</h3>
+<h3 align="center">A passionate Software Engineer and Cybersecurity Enthusiast from India</h3>
 
 
 
@@ -66,9 +62,9 @@
 
 - **Google Cybersecurity Professional Certificate**  
 - **Machine Learning using Python – Great Learning Academy** 
-- **Python Crash Course – Google**  
-- **Data Analysis with R Programming – Google**
-
+- **Google Cloud Certification: Cloud Data Engineer Specialization**  
+- **Data Engineering, Big Data, and Machine Learning on GCP Specialization**
+- **Web Development - Internshala Trainings** 
 ---
 
 <h3 align="left">📅 Projects:</h3>
