@@ -128,7 +128,7 @@
 
 <div style=" align:left; display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ux-design-professional-certificate.2.png" alt="UX Design" width="100" height="95"/>
-    <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ai-essentials%20(1).png" alt="AI Essentials" width="100" height="100"/>
+    <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-ai-essentials%20(1).png" alt="AI Essentials" width="108" height="105"/>
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/google-cybersecurity-certificate.png" alt="cybersecurity" width="130" height="100" align= down />
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/cybersecurity-breach-case-studies.png" alt="cybersecurity" width="130" height="100" align= down bg=black />
 </div>
