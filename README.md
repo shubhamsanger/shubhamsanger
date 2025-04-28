@@ -9,7 +9,7 @@
 ---
 
 - 🌱 I’m currently learning **Java, AI & ML, and Advanced Cybersecurity Techniques**  
-- 💬 Ask me about **C, Python, JavaScript, and Network Security**  
+- 💬 Ask me about **Java, Python, JavaScript, and Network Security**  
 - 📢 How to reach me: [rajputmshubham16@gmail.com](mailto:rajputmshubham16@gmail.com)  
 - ✨ Fun fact: **My keyboard and I have an unspoken bond. It understands my typos better than anyone else!😅⌨️**
 
