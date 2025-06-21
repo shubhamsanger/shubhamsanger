@@ -17,7 +17,7 @@
 
 <div style="width: 100%; text-align: center;">
   <div style="margin-bottom: 20px;">
-    <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="500" height="320" alt="Animated GIF"/>
+    <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="1000" height="250" alt="Animated GIF"/>
   </div>
 
   <div style="text-align: center;">
