@@ -15,20 +15,18 @@
 
 ---
 
-<table>
-  <tr>
-    <!-- Left side: image -->
-    <td align="left" width="50%">
-      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" height="200"/>
-    </td> <!-- Right side: text and LinkedIn logo -->
-    <td align="right" width="50%">
-      <h3>🔗 Connect with me:</h3>
-      <a href="https://www.linkedin.com/in/shubhamsanger23/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="50" width="60"/>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" height="200"/>
+</p>
+
+<div align="right">
+  <h3 style="margin: 0;">🔗 Connect with me:</h3>
+  <a href="https://www.linkedin.com/in/shubhamsanger23/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="50" width="60"/>
+  </a>
+</div>
+
 
 
 
