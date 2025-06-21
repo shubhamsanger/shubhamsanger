@@ -89,13 +89,20 @@
 ---
 
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-    <img src="google-cybersecurity.png" alt="cybersecurity" width="155" height="170"/>
-    <img src="google-ai-essentials.png" alt="ai essentials" width="140" height="160"/>
-    <img src="google-prompting-essentials--.png" alt="prompting" width="150" height="150"/>
-    <img src="google-business-intelligence.png" alt="bi" width="150" height="150"/>
-    <img src="google-ux-design.png" alt="ux" width="140" height="150"/>
+<div style=" align:left; display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+    <img src="google-cybersecurity.png" alt="cybersecurity" width="155" height="170"/>
+
+    <img src="google-ai-essentials.png" alt="ai essentials" width="140" height="160"/>
+
+    <img src="google-prompting-essentials--.png" alt="prompting" width="150" height="150" align= down />
+
+    <img src="google-business-intelligence.png" alt="bi" width="150" height="150" align= down/>
+
+    <img src="google-ux-design.png" alt="ux" width="140" height="150" align= down />
+
 </div>
+
 ---
 
 <p align="center">🌟 *Passionate about creating innovative solutions and securing the digital world.* 🌟</p>
