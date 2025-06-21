@@ -95,10 +95,9 @@
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/cybersecurity-breach-case-studies.png" alt="cybersecurity" width="130" height="100" align= down />
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/artificial-intelligence-essentials-v2.png" alt="artificial" width="130" height="100" align= down />
     <img src="https://github.com/shubhamsanger/shubhamsanger/blob/main/machine-learning-introduction-for-everyone.png" alt="machine" width="130" height="100" align= down />
-
 </div>
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b5dc76d0-6a2a-43f3-b9d2-2556eafbe795" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
