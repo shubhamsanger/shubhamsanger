@@ -90,11 +90,11 @@
 
 
 <div style=" align:left; display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="google-cybersecurity.png" alt="cybersecurity" width="150" height="150"/>
-    <img src="google-ai-essentials.png" alt="ai essentials" width="132" height="125"/>
-    <img src="google-prompting-essentials--.png" alt="prompting" width="160" height="115" align= down />
-    <img src="google-business-intelligence.png" alt="bi" width="160" height="118" align= down/>
-    <img src="google-ux-design.png" alt="ux" width="170" height="120" align= down />
+    <img src="google-cybersecurity.png" alt="cybersecurity" width="150" height="170"/>
+    <img src="google-ai-essentials.png" alt="ai essentials" width="132" height="150"/>
+    <img src="google-prompting-essentials--.png" alt="prompting" width="150" height="130" align= down />
+    <img src="google-business-intelligence.png" alt="bi" width="150" height="140" align= down/>
+    <img src="google-ux-design.png" alt="ux" width="150" height="150" align= down />
 </div>
 
 ---
