@@ -89,7 +89,7 @@
 ---
 
 
-<div style=" align:left; display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style=" align:left; display: flex; justify-content: center; align-items: center; gap: 12px;">
     <img src="google-cybersecurity.png" alt="cybersecurity" width="155" height="170"/>
     <img src="google-ai-essentials.png" alt="ai essentials" width="140" height="160"/>
     <img src="google-prompting-essentials--.png" alt="prompting" width="150" height="150" align= down />
