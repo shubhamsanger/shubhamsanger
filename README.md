@@ -93,7 +93,7 @@
     <img src="google-cybersecurity.png" alt="cybersecurity" width="110" height="100"/>
     <img src="google-ai-essentials.png" alt="ai essentials" width="112" height="110"/>
     <img src="google-business-intelligence.png" alt="bi" width="130" height="108" align= down/>
-    <img src="google-prompting-essentials-.png" alt="prompting" width="130" height="100" align= down />
+    <img src="google-prompting-essentials--.png" alt="prompting" width="130" height="100" align= down />
     <img src="google-ux-design.png" alt="ux" width="130" height="100" align= down />
 </div>
 
