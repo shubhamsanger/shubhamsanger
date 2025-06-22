@@ -63,7 +63,9 @@
 - **Online Electricity Billing System**: Full-stack app using React.js, Node.js, and MongoDB with secure payment integration.
 - **E-Parking Solutions System**: Java-based system with database integration for efficient car & bike tracking.
 - **Cyber Shield**: Simulated environment for identifying, mitigating, and reporting cyber threats.
-- **Attack Guard**: A sophisticated IDS designed to detect and prevent cyberattacks in real-time.
+- **Attack Guard:**
+   - It is a Python-based Intrusion Detection System (IDS) that monitors and analyzes network traffic in real-time.
+   - It captures packets, detects suspicious activities based on signature-based matching and logs all details into time-stamped CSV files for further inspection.
 
 ---
 
