@@ -84,8 +84,8 @@
   <img src="google-cybersecurity.png" alt="Google Cybersecurity Certificate" width="160" />
   <img src="google-ai-essentials.png" alt="Google AI Essentials Certificate" width="160" />
   <img src="google-data-analytics.png" alt="Google Data Analytics Certificate" width="150" />
-  <img src="google-business-intelligence.png" alt="Google Business Intelligence Certificate" width="150" />
-  <img src="google-ux-design.png" alt="Google UX Design Certificate" width="140" />
+  <img src="google-business-intelligence.png" alt="Google Business Intelligence Certificate" width="155" />
+  <img src="google-ux-design.png" alt="Google UX Design Certificate" width="150" />
 </div>
 
 ---
