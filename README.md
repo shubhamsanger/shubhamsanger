@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="max-width: 100%; height: auto;" />
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="max-width: 100%; height: 200px;" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
   <img src="google-cybersecurity.png" alt="Google Cybersecurity Certificate" width="160" />
-  <img src="google-ai-essentials.png" alt="Google AI Essentials Certificate" width="140" />
+  <img src="google-ai-essentials.png" alt="Google AI Essentials Certificate" width="160" />
   <img src="google-data-analytics.png" alt="Google Data Analytics Certificate" width="150" />
   <img src="google-business-intelligence.png" alt="Google Business Intelligence Certificate" width="150" />
   <img src="google-ux-design.png" alt="Google UX Design Certificate" width="140" />
