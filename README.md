@@ -83,7 +83,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
   <img src="google-cybersecurity.png" alt="Google Cybersecurity Certificate" width="160" />
   <img src="google-ai-essentials.png" alt="Google AI Essentials Certificate" width="140" />
-  <img src="google-prompting-essentials--.png" alt="Google Prompting Essentials Certificate" width="150" />
+  <img src="google-data-analytics.png" alt="Google Data Analytics Certificate" width="150" />
   <img src="google-business-intelligence.png" alt="Google Business Intelligence Certificate" width="150" />
   <img src="google-ux-design.png" alt="Google UX Design Certificate" width="140" />
 </div>
